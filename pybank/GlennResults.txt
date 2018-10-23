@@ -1,0 +1,8 @@
+Financial Analysis
+______________________________________________________
+Total Months:  86
+Total Net Revenue:  $38,382,578.00
+Average Delta:      -$2,315.12
+Highest Delta:      $1,926,159.00 on Feb-2012
+Lowest  Delta       -$2,196,167.00 on Sep-2013
+______________________________________________________
